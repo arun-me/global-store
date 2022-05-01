@@ -1,5 +1,5 @@
 {
-  "name": "@arun-me/global-store",
+  "name": "g-store",
   "version": "1.0.0",
   "description": "A Simplified global store for react",
   "main": "index.js",
