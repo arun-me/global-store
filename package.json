@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/arun-me/global-store/issues"
   },
-  "homepage": "https://github.com/arun-me/global-store#readme"
+  "homepage": "https://github.com/arun-me/global-store#readme",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
 }
