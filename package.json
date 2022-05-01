@@ -1,6 +1,6 @@
 {
   "name": "@arun-me/global-store",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A Simplified global store for react",
   "main": "index.js",
   "scripts": {
