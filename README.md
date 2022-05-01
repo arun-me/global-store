@@ -11,7 +11,7 @@ In the **index.js** file of the react app
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import {Provider} from 'global-state';
+import {Provider} from '@arun-me/global-state';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider>
@@ -21,7 +21,7 @@ root.render(
 ```
 In You can use it in your **Component** 
 ```sh
-import { useGStore } from 'global-state'; 
+import { useGStore } from '@arun-me/global-state'; 
 
 function App() {
   const [state, setState] = useGStore(0,"UniqueGlobalStateName");
