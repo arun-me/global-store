@@ -1,6 +1,6 @@
 {
   "name": "g-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simplified global store for react",
   "main": "index.js",
   "scripts": {
