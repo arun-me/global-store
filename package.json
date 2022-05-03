@@ -24,7 +24,7 @@
     "url": "https://github.com/arun-me/global-store/issues"
   },
   "homepage": "https://github.com/arun-me/global-store#readme",
-  "peerDependencies": {
-    "react": " ^16.8 || ^17.0|| ^18.0"
+  "dependencies": {
+    "react": "^18.1.0"
   }
 }
